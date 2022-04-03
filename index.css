@@ -109,3 +109,12 @@ p.fourteen {
     background-color: rgb(0,136,221);
 
 }
+
+.task-2 {
+    font-size: 25px;
+}
+
+.task-2:active {
+    background-color: rgb(102, 100, 104);
+    
+}
